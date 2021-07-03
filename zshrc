@@ -59,3 +59,4 @@ export PYTHONPATH="/home/janspoerer/code/janspoerer/data-solutions/04-Decision-S
 # HSG explainable AI project
 export PYTHONPATH="/home/janspoerer/code/janspoerer/price-data-lib:$PYTHONPATH"
 export PYTHONPATH="/home/janspoerer/code/janspoerer/interpret-price-prediction:$PYTHONPATH"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
